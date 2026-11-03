@@ -1,0 +1,51 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement class="screen" picking-mode="Ignore">
+        <ui:VisualElement class="row home-top" picking-mode="Ignore">
+            <ui:VisualElement class="home-brand"><ui:Label text="@app.name" class="t-display" /></ui:VisualElement>
+            <ui:Button name="settings" class="icon-btn"><game:IconView icon="sliders" line-width="1.8" class="icon-20" /></ui:Button>
+        </ui:VisualElement>
+        <ui:VisualElement class="home-sheet">
+            <ui:Label text="@home.tag" class="home-tag t-strong" />
+            <ui:Label text="@home.headline" class="home-headline t-display" />
+            <ui:Button name="play" class="play-btn">
+                <ui:VisualElement name="play-portrait" class="portrait play-portrait" />
+                <ui:VisualElement class="grow">
+                    <ui:Label text="@home.play" class="play-title t-heavy" />
+                    <ui:Label name="play-sub" class="play-sub" />
+                </ui:VisualElement>
+                <ui:VisualElement class="play-arrow"><game:IconView icon="arrow" stroke="#3550E8" line-width="2.2" class="icon-22" /></ui:VisualElement>
+            </ui:Button>
+            <ui:VisualElement class="row home-row">
+                <ui:Button name="opponents" class="card tile gap-right">
+                    <ui:VisualElement name="tile-portrait-1" class="portrait tile-portrait" />
+                    <ui:VisualElement name="tile-portrait-2" class="portrait tile-portrait tile-portrait-2" />
+                    <ui:VisualElement class="grow">
+                        <ui:Label text="@home.opponents" class="t-strong t-15" />
+                        <ui:Label name="unlocked" class="t-semi t-small t-muted" />
+                    </ui:VisualElement>
+                </ui:Button>
+                <ui:Button name="stats" class="card tile">
+                    <ui:VisualElement class="tile-icon"><game:IconView icon="chart" line-width="1.8" class="icon-20" /></ui:VisualElement>
+                    <ui:VisualElement class="grow">
+                        <ui:Label text="@home.stats" class="t-strong t-15" />
+                        <ui:Label name="strongest" class="t-semi t-small t-muted" />
+                    </ui:VisualElement>
+                </ui:Button>
+            </ui:VisualElement>
+            <ui:VisualElement class="row">
+                <ui:VisualElement class="card stat gap-right">
+                    <ui:Label name="stat-wins" class="stat-value t-display" />
+                    <ui:Label text="@stat.wins" class="t-small t-muted" />
+                </ui:VisualElement>
+                <ui:VisualElement class="card stat gap-right">
+                    <ui:Label name="stat-streak" class="stat-value stat-streak t-display" />
+                    <ui:Label text="@stat.streak" class="t-small t-muted" />
+                </ui:VisualElement>
+                <ui:VisualElement class="card stat">
+                    <ui:Label name="stat-correct" class="stat-value t-display" />
+                    <ui:Label text="@stat.correct" class="t-small t-muted" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

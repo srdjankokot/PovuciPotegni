@@ -1,0 +1,73 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement class="screen" picking-mode="Ignore">
+        <ui:VisualElement name="scrim" class="scrim" picking-mode="Ignore" />
+        <ui:VisualElement class="row match-top" picking-mode="Ignore">
+            <ui:Button name="leave" class="icon-btn"><game:IconView icon="close" line-width="2.2" class="icon-20" /></ui:Button>
+            <ui:Label name="number" class="chip-num t-display" />
+            <ui:Label name="category" class="chip-cat t-strong" />
+        </ui:VisualElement>
+        <ui:VisualElement class="row hud" picking-mode="Ignore">
+            <ui:VisualElement class="hud-you"><ui:Label text="@match.youShort" class="t-strong" /></ui:VisualElement>
+            <ui:VisualElement class="grow">
+                <ui:Label text="@match.you" class="hud-name t-strong" />
+                <ui:Label name="you-left" class="hud-left-you" />
+            </ui:VisualElement>
+            <ui:Label text="@match.vs" class="hud-vs t-display" />
+            <ui:VisualElement class="grow hud-right">
+                <ui:Label name="bot-name" class="hud-name t-strong" />
+                <ui:Label name="bot-left" class="hud-left-opp" />
+            </ui:VisualElement>
+            <ui:VisualElement name="bot-portrait" class="portrait hud-portrait" />
+        </ui:VisualElement>
+        <ui:VisualElement name="incoming" class="incoming hidden" picking-mode="Ignore"><ui:Label name="incoming-text" class="t-display" /></ui:VisualElement>
+        <ui:VisualElement name="chips" class="row chips hidden" picking-mode="Ignore">
+            <ui:Label name="chip-you" class="chip-you t-strong" />
+            <ui:Label name="chip-bot" class="chip-opp t-strong" />
+        </ui:VisualElement>
+        <ui:VisualElement class="report-row" picking-mode="Ignore">
+            <ui:Button name="report" class="report hidden"><ui:Label name="report-label" /></ui:Button>
+        </ui:VisualElement>
+        <ui:VisualElement name="sheet" class="sheet">
+            <ui:VisualElement class="handle" />
+            <ui:VisualElement class="row">
+                <ui:VisualElement class="timer-track grow"><ui:VisualElement name="timer-bar" class="timer-bar" /></ui:VisualElement>
+                <ui:Label name="timer-text" class="timer-text" />
+            </ui:VisualElement>
+            <ui:Label name="question" class="question t-display" />
+            <ui:Button name="option-0" class="opt">
+                <ui:VisualElement class="opt-letter"><ui:Label text="A" /></ui:VisualElement>
+                <ui:Label class="opt-text" />
+                <ui:Label text="@match.you" class="opt-tag opt-tag--you t-strong" />
+                <ui:Label class="opt-tag opt-tag--bot t-strong" />
+            </ui:Button>
+            <ui:Button name="option-1" class="opt">
+                <ui:VisualElement class="opt-letter"><ui:Label text="B" /></ui:VisualElement>
+                <ui:Label class="opt-text" />
+                <ui:Label text="@match.you" class="opt-tag opt-tag--you t-strong" />
+                <ui:Label class="opt-tag opt-tag--bot t-strong" />
+            </ui:Button>
+            <ui:Button name="option-2" class="opt">
+                <ui:VisualElement class="opt-letter"><ui:Label text="C" /></ui:VisualElement>
+                <ui:Label class="opt-text" />
+                <ui:Label text="@match.you" class="opt-tag opt-tag--you t-strong" />
+                <ui:Label class="opt-tag opt-tag--bot t-strong" />
+            </ui:Button>
+            <ui:VisualElement name="status" class="row status">
+                <ui:VisualElement class="status-dot" />
+                <ui:Label name="status-text" />
+            </ui:VisualElement>
+            <ui:VisualElement class="row">
+                <ui:Button name="joker-half" class="joker"><ui:Label text="@joker.half" class="joker-name" /><ui:Label class="joker-hint" /></ui:Button>
+                <ui:Button name="joker-shield" class="joker joker-gap"><ui:Label text="@joker.shield" class="joker-name" /><ui:Label class="joker-hint" /></ui:Button>
+                <ui:Button name="joker-double" class="joker joker-gap"><ui:Label text="@joker.double" class="joker-name" /><ui:Label class="joker-hint" /></ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="banner" class="row banner hidden">
+            <ui:VisualElement class="grow">
+                <ui:Label name="banner-title" class="banner-title" />
+                <ui:Label name="banner-text" class="banner-text" />
+            </ui:VisualElement>
+            <ui:Button name="next" class="next"><game:IconView icon="arrow" stroke="#FFFFFF" line-width="2.4" class="icon-22" /></ui:Button>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

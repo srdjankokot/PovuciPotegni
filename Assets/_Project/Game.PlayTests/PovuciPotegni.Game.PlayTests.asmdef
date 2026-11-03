@@ -1,0 +1,23 @@
+{
+    "name": "PovuciPotegni.Game.PlayTests",
+    "rootNamespace": "PovuciPotegni.Game.PlayTests",
+    "references": [
+        "PovuciPotegni.Core",
+        "PovuciPotegni.Game",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

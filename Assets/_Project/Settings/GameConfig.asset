@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21514621cbf224ff3a950994852b6ce3, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: PovuciPotegni.Game::PovuciPotegni.Game.GameConfigAsset
+  config:
+    MaxQuestions: 15
+    RopeEdge: 3
+    AnswerSeconds: 15
+    DoublePullSteps: 2
+    LastEasyQuestion: 5
+    LastMediumQuestion: 10
+    BotEasyQuestionBonus: 0.1
+    BotHardQuestionBonus: -0.15
+    BotStrongCategoryBonus: 0.1
+    BotWeakCategoryBonus: -0.1
+    AllowUnverified: 1
+    Bots:
+    - Id: segrt
+      Accuracy: 0.55
+      MinAnswerSeconds: 4
+      MaxAnswerSeconds: 8
+      WinsToUnlock: 0
+      StrongCategory: film_tv
+      WeakCategory: nauka
+    - Id: profesor
+      Accuracy: 0.7
+      MinAnswerSeconds: 3
+      MaxAnswerSeconds: 6
+      WinsToUnlock: 3
+      StrongCategory: istorija
+      WeakCategory: sport
+    - Id: lisac
+      Accuracy: 0.82
+      MinAnswerSeconds: 2
+      MaxAnswerSeconds: 5
+      WinsToUnlock: 10
+      StrongCategory: sport
+      WeakCategory: umetnost_knjizevnost
+    - Id: majstor
+      Accuracy: 0.9
+      MinAnswerSeconds: 1.5
+      MaxAnswerSeconds: 4
+      WinsToUnlock: 25
+      StrongCategory: 
+      WeakCategory: 

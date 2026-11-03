@@ -1,0 +1,4 @@
+<linker>
+    <!-- Questions and saved data are read through Newtonsoft's JSON types; IL2CPP must not strip them. -->
+    <assembly fullname="Newtonsoft.Json" preserve="all" />
+</linker>

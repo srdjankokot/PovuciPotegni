@@ -1,0 +1,19 @@
+{
+    "name": "PovuciPotegni.Editor",
+    "rootNamespace": "PovuciPotegni.EditorTools",
+    "references": [
+        "PovuciPotegni.Core",
+        "PovuciPotegni.Game"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

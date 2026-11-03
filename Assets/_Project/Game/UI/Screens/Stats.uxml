@@ -1,0 +1,39 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement class="screen page">
+        <ui:VisualElement class="row">
+            <ui:Button name="back" class="icon-btn back-btn"><game:IconView icon="back" class="icon-20" /></ui:Button>
+            <ui:Label text="@stats.title" class="page-title t-display" />
+        </ui:VisualElement>
+        <ui:ScrollView class="grow" vertical-scroller-visibility="Hidden" horizontal-scroller-visibility="Hidden" style="margin-top: 14px;">
+            <ui:VisualElement class="row" style="margin-bottom: 10px;">
+                <ui:VisualElement class="card stat gap-right">
+                    <ui:Label name="matches" class="stat-value t-display" />
+                    <ui:Label text="@stats.matches" class="t-small t-muted" />
+                </ui:VisualElement>
+                <ui:VisualElement class="card stat">
+                    <ui:Label name="wins" class="stat-value t-display" />
+                    <ui:Label text="@stat.wins" class="t-small t-muted" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement class="row" style="margin-bottom: 12px;">
+                <ui:VisualElement class="card stat gap-right">
+                    <ui:Label name="streak" class="stat-value stat-streak t-display" />
+                    <ui:Label text="@stat.streak" class="t-small t-muted" />
+                </ui:VisualElement>
+                <ui:VisualElement class="card stat gap-right">
+                    <ui:Label name="best" class="stat-value t-display" />
+                    <ui:Label text="@stats.best" class="t-small t-muted" />
+                </ui:VisualElement>
+                <ui:VisualElement class="card stat">
+                    <ui:Label name="correct" class="stat-value t-display" />
+                    <ui:Label text="@stat.correct" class="t-small t-muted" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement class="card section">
+                <ui:Label text="@stats.byCategory" class="section-title" />
+                <ui:Label name="empty" text="@stats.noAnswers" class="t-13 t-muted t-semi" />
+                <ui:VisualElement name="categories" />
+            </ui:VisualElement>
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

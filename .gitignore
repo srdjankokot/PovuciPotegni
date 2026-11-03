@@ -1,0 +1,61 @@
+# Unity generisani folderi
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Android build keš
+/.utmp/
+
+# Privremene scene test runnera
+/Assets/InitTestScene*
+
+# Rezultati testova
+/TestResults/
+
+# Fajlovi koje generiše IDE
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Meta za debug simbole
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Build izlazi
+*.apk
+*.aab
+*.ipa
+*.unitypackage
+*.app
+crashlytics-build.properties
+
+# Tajne: ključevi za potpisivanje i lokalna konfiguracija Firebase-a
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+
+# Sistem
+.DS_Store
+Thumbs.db

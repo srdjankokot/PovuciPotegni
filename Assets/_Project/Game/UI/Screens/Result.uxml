@@ -1,0 +1,39 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements">
+    <ui:VisualElement class="screen" picking-mode="Ignore">
+        <ui:VisualElement class="result-head" picking-mode="Ignore">
+            <ui:Label name="after" class="result-tag t-strong" />
+            <ui:Label name="title" class="result-title t-heavy" />
+            <ui:Label name="text" class="result-text" />
+        </ui:VisualElement>
+        <ui:VisualElement class="row result-stats" picking-mode="Ignore">
+            <ui:VisualElement class="result-stat gap-right">
+                <ui:Label name="your-correct" class="result-value result-value--you t-display" />
+                <ui:Label text="@result.yourCorrect" class="t-small t-muted" />
+            </ui:VisualElement>
+            <ui:VisualElement class="result-stat">
+                <ui:Label name="streak" class="result-value t-display" />
+                <ui:Label text="@stat.streak" class="t-small t-muted" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement class="report-row report-row--result" picking-mode="Ignore">
+            <ui:Button name="report" class="report"><ui:Label name="report-label" /></ui:Button>
+        </ui:VisualElement>
+        <ui:VisualElement class="result-sheet">
+            <ui:VisualElement name="next-bot" class="row result-next">
+                <ui:VisualElement name="next-portrait" class="portrait result-portrait" />
+                <ui:VisualElement class="grow">
+                    <ui:VisualElement class="row spread">
+                        <ui:Label name="next-name" class="t-strong" />
+                        <ui:Label name="next-count" class="t-small t-muted" />
+                    </ui:VisualElement>
+                    <ui:VisualElement class="track bot-track"><ui:VisualElement name="next-fill" class="track-fill" /></ui:VisualElement>
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:Button name="rematch" class="rematch"><ui:Label text="@result.rematch" /></ui:Button>
+            <ui:VisualElement class="row">
+                <ui:Button name="other" class="secondary gap-right"><ui:Label text="@result.other" /></ui:Button>
+                <ui:Button name="home" class="secondary"><ui:Label text="@result.home" /></ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

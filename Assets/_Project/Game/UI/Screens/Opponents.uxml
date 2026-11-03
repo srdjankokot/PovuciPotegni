@@ -1,0 +1,10 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement class="screen page">
+        <ui:VisualElement class="row">
+            <ui:Button name="back" class="icon-btn back-btn"><game:IconView icon="back" class="icon-20" /></ui:Button>
+            <ui:Label text="@opponents.title" class="page-title t-display" />
+        </ui:VisualElement>
+        <ui:Label text="@opponents.intro" class="page-intro t-semi" />
+        <ui:ScrollView name="list" class="grow" vertical-scroller-visibility="Hidden" horizontal-scroller-visibility="Hidden" />
+    </ui:VisualElement>
+</ui:UXML>

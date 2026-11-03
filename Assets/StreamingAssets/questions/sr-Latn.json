@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "q_000001",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "Koji grad je bio domaćin Letnje univerzijade 2009?",
+    "options": [
+      "Novi Sad",
+      "Beograd",
+      "Zagreb"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000002",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koja reka protiče kroz Novi Sad?",
+    "options": [
+      "Sava",
+      "Dunav",
+      "Tisa"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000003",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 2,
+    "text": "Koje godine je počeo Prvi srpski ustanak?",
+    "options": [
+      "1804.",
+      "1815.",
+      "1830."
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000004",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 1,
+    "text": "Ko je napisao roman „Na Drini ćuprija“?",
+    "options": [
+      "Ivo Andrić",
+      "Meša Selimović",
+      "Danilo Kiš"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000005",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "U kom sportu se igra Dejvis kup?",
+    "options": [
+      "Golf",
+      "Tenis",
+      "Odbojka"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000006",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koji je hemijski simbol za zlato?",
+    "options": [
+      "Ag",
+      "Zn",
+      "Au"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000007",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 2,
+    "text": "Koji je glavni grad Australije?",
+    "options": [
+      "Sidnej",
+      "Kanbera",
+      "Melburn"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000008",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Ko je prvi čovek koji je hodao po Mesecu?",
+    "options": [
+      "Jurij Gagarin",
+      "Baz Oldrin",
+      "Nil Armstrong"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000009",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 1,
+    "text": "Koliko igrača jednog tima je istovremeno na košarkaškom terenu?",
+    "options": [
+      "Pet",
+      "Šest",
+      "Sedam"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000010",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koja planeta je najbliža Suncu?",
+    "options": [
+      "Venera",
+      "Merkur",
+      "Mars"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000011",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koji je najveći okean na svetu?",
+    "options": [
+      "Atlantski",
+      "Indijski",
+      "Tihi"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000012",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 1,
+    "text": "Koliko žica ima standardna akustična gitara?",
+    "options": [
+      "Pet",
+      "Šest",
+      "Sedam"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000013",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Koje godine je počeo Prvi svetski rat?",
+    "options": [
+      "1918.",
+      "1914.",
+      "1939."
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000014",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Ko je vodio Prvi srpski ustanak?",
+    "options": [
+      "Miloš Obrenović",
+      "Knez Lazar",
+      "Karađorđe"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000015",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Koje godine je Kolumbo stigao do Amerike?",
+    "options": [
+      "1492.",
+      "1519.",
+      "1453."
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000016",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Ko je bio prvi predsednik Sjedinjenih Američkih Država?",
+    "options": [
+      "Tomas Džeferson",
+      "Džordž Vašington",
+      "Abraham Linkoln"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000017",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 2,
+    "text": "Koje godine se odigrala Kosovska bitka?",
+    "options": [
+      "1459.",
+      "1521.",
+      "1389."
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000018",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 2,
+    "text": "Koje godine je pao Berlinski zid?",
+    "options": [
+      "1989.",
+      "1985.",
+      "1991."
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000019",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 3,
+    "text": "Na kom kongresu je Srbija 1878. dobila međunarodno priznatu nezavisnost?",
+    "options": [
+      "Bečkom",
+      "Berlinskom",
+      "Pariskom"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000020",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 3,
+    "text": "Koje godine je Stefan Dušan krunisan za cara?",
+    "options": [
+      "1389.",
+      "1217.",
+      "1346."
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000021",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koji je glavni grad Slovenije?",
+    "options": [
+      "Ljubljana",
+      "Maribor",
+      "Kopar"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000022",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koji je najviši vrh na svetu?",
+    "options": [
+      "K2",
+      "Mont Everest",
+      "Mon Blan"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000023",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Kroz koji grad protiče reka Sena?",
+    "options": [
+      "London",
+      "Rim",
+      "Pariz"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000024",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 2,
+    "text": "Koja je najduža reka u Evropi?",
+    "options": [
+      "Volga",
+      "Dunav",
+      "Rajna"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000025",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 2,
+    "text": "Koji je glavni grad Turske?",
+    "options": [
+      "Istanbul",
+      "Ankara",
+      "Izmir"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000026",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 2,
+    "text": "U kojoj državi se nalazi Maču Pikču?",
+    "options": [
+      "Čile",
+      "Meksiko",
+      "Peru"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000027",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 3,
+    "text": "Koji je glavni grad Novog Zelanda?",
+    "options": [
+      "Velington",
+      "Okland",
+      "Krajstčerč"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000028",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 3,
+    "text": "Koji moreuz povezuje Atlantski okean i Sredozemno more?",
+    "options": [
+      "Bosfor",
+      "Gibraltarski",
+      "Hormuski"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000029",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 1,
+    "text": "Koliko igrača jednog tima je istovremeno na fudbalskom terenu?",
+    "options": [
+      "10",
+      "9",
+      "11"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000030",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 1,
+    "text": "U kom gradu su održane Zimske olimpijske igre 1984. godine?",
+    "options": [
+      "Sarajevo",
+      "Ljubljana",
+      "Zagreb"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000031",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 1,
+    "text": "Koliko krugova ima na olimpijskoj zastavi?",
+    "options": [
+      "Četiri",
+      "Pet",
+      "Šest"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000032",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "Koje godine je Crvena zvezda osvojila Kup evropskih šampiona?",
+    "options": [
+      "1985.",
+      "1996.",
+      "1991."
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000033",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "Sa kojim klubom je Nikola Jokić osvojio NBA titulu 2023. godine?",
+    "options": [
+      "Denver",
+      "Boston",
+      "Majami"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000034",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "Koliko poena vredi uspešan šut iza linije za tri poena u košarci?",
+    "options": [
+      "Dva",
+      "Tri",
+      "Četiri"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000035",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 3,
+    "text": "Koja država je bila domaćin prvog Svetskog prvenstva u fudbalu 1930. godine?",
+    "options": [
+      "Brazil",
+      "Italija",
+      "Urugvaj"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000036",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 3,
+    "text": "Kolika je dužina maratona?",
+    "options": [
+      "42,195 km",
+      "40 km",
+      "45,5 km"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000037",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 1,
+    "text": "Kako se zove škola u koju ide Hari Poter?",
+    "options": [
+      "Durmstrang",
+      "Hogvorts",
+      "Bobatons"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000038",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 1,
+    "text": "Kako se zove glavni junak crtanog filma „Kralj lavova“?",
+    "options": [
+      "Mufasa",
+      "Skar",
+      "Simba"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000039",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 2,
+    "text": "Ko je režirao film „Titanik“ iz 1997. godine?",
+    "options": [
+      "Džejms Kameron",
+      "Stiven Spilberg",
+      "Ridli Skot"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000040",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 2,
+    "text": "Koji glumac je igrao Džejmsa Bonda u prvom filmu serijala, „Doktor No“?",
+    "options": [
+      "Rodžer Mur",
+      "Šon Koneri",
+      "Danijel Krejg"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000041",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 2,
+    "text": "Ko je režirao film „Podzemlje“, dobitnik Zlatne palme 1995. godine?",
+    "options": [
+      "Goran Paskaljević",
+      "Srđan Dragojević",
+      "Emir Kusturica"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000042",
+    "lang": "sr-Latn",
+    "category": "film_tv",
+    "difficulty": 3,
+    "text": "Ko je režirao film „Ko to tamo peva“?",
+    "options": [
+      "Slobodan Šijan",
+      "Emir Kusturica",
+      "Goran Marković"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000043",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 1,
+    "text": "Iz kog grada potiču Bitlsi?",
+    "options": [
+      "London",
+      "Liverpul",
+      "Mančester"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000044",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 1,
+    "text": "Ko je pevač grupe Riblja čorba?",
+    "options": [
+      "Momčilo Bajagić",
+      "Đorđe Balašević",
+      "Bora Đorđević"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000045",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 2,
+    "text": "Ko je osnovao grupu Bijelo dugme?",
+    "options": [
+      "Goran Bregović",
+      "Željko Bebek",
+      "Zdravko Čolić"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000046",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 2,
+    "text": "U kom gradu je rođen Volfgang Amadeus Mocart?",
+    "options": [
+      "Beč",
+      "Salcburg",
+      "Prag"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000047",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 3,
+    "text": "U kom gradu je Marija Šerifović pobedila na Evroviziji 2007. godine?",
+    "options": [
+      "Atina",
+      "Kijev",
+      "Helsinki"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000048",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 3,
+    "text": "Koliko tipki ima standardni klavir?",
+    "options": [
+      "88",
+      "76",
+      "61"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000049",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koliko planeta ima Sunčev sistem?",
+    "options": [
+      "Devet",
+      "Osam",
+      "Sedam"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000050",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koja je najveća planeta Sunčevog sistema?",
+    "options": [
+      "Saturn",
+      "Neptun",
+      "Jupiter"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000051",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 2,
+    "text": "U kom mestu je rođen Nikola Tesla?",
+    "options": [
+      "Smiljan",
+      "Beograd",
+      "Novi Sad"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000052",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 2,
+    "text": "Koji je najlakši hemijski element?",
+    "options": [
+      "Helijum",
+      "Vodonik",
+      "Kiseonik"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000053",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 3,
+    "text": "Po kom naučniku su nazvani kalemovi koji su omogućili telefoniranje na velike daljine?",
+    "options": [
+      "Nikola Tesla",
+      "Milutin Milanković",
+      "Mihajlo Pupin"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000054",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 3,
+    "text": "Koji metal je tečan na sobnoj temperaturi?",
+    "options": [
+      "Živa",
+      "Olovo",
+      "Kalaj"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000055",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 1,
+    "text": "Ko je napisao „Gorski vijenac“?",
+    "options": [
+      "Vuk Karadžić",
+      "Petar II Petrović Njegoš",
+      "Laza Kostić"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000056",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 1,
+    "text": "Ko je naslikao Mona Lizu?",
+    "options": [
+      "Mikelanđelo",
+      "Rafael",
+      "Leonardo da Vinči"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000057",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 2,
+    "text": "Ko je napisao roman „Derviš i smrt“?",
+    "options": [
+      "Meša Selimović",
+      "Ivo Andrić",
+      "Danilo Kiš"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000058",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 3,
+    "text": "Ko je napisao roman „Seobe“?",
+    "options": [
+      "Borislav Pekić",
+      "Miloš Crnjanski",
+      "Isidora Sekulić"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000059",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 3,
+    "text": "Koje godine je Ivo Andrić dobio Nobelovu nagradu?",
+    "options": [
+      "1945.",
+      "1975.",
+      "1961."
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000060",
+    "lang": "sr-Latn",
+    "category": "opste",
+    "difficulty": 1,
+    "text": "Koliko dana ima prestupna godina?",
+    "options": [
+      "366",
+      "365",
+      "364"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000061",
+    "lang": "sr-Latn",
+    "category": "opste",
+    "difficulty": 1,
+    "text": "Koja je najbrža kopnena životinja?",
+    "options": [
+      "Lav",
+      "Gepard",
+      "Antilopa"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000062",
+    "lang": "sr-Latn",
+    "category": "opste",
+    "difficulty": 2,
+    "text": "Koliko polja ima šahovska tabla?",
+    "options": [
+      "81",
+      "49",
+      "64"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000063",
+    "lang": "sr-Latn",
+    "category": "opste",
+    "difficulty": 3,
+    "text": "Kako se naziva strah od pauka?",
+    "options": [
+      "Arahnofobija",
+      "Klaustrofobija",
+      "Agorafobija"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000064",
+    "lang": "sr-Latn",
+    "category": "opste",
+    "difficulty": 3,
+    "text": "Šta proučava ornitolog?",
+    "options": [
+      "Insekte",
+      "Ptice",
+      "Ribe"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  }
+]

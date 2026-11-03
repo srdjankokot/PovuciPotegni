@@ -1,0 +1,242 @@
+[
+  {
+    "id": "q_000001",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "Koji grad je bio domaćin Letnje univerzijade 2009?",
+    "options": [
+      "Novi Sad",
+      "Beograd",
+      "Zagreb"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000002",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koja reka protiče kroz Novi Sad?",
+    "options": [
+      "Sava",
+      "Dunav",
+      "Tisa"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000003",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 2,
+    "text": "Koje godine je počeo Prvi srpski ustanak?",
+    "options": [
+      "1804.",
+      "1815.",
+      "1830."
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000004",
+    "lang": "sr-Latn",
+    "category": "umetnost_knjizevnost",
+    "difficulty": 1,
+    "text": "Ko je napisao roman „Na Drini ćuprija“?",
+    "options": [
+      "Ivo Andrić",
+      "Meša Selimović",
+      "Danilo Kiš"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000005",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 2,
+    "text": "U kom sportu se igra Dejvis kup?",
+    "options": [
+      "Golf",
+      "Tenis",
+      "Odbojka"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000006",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koji je hemijski simbol za zlato?",
+    "options": [
+      "Ag",
+      "Zn",
+      "Au"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000007",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 2,
+    "text": "Koji je glavni grad Australije?",
+    "options": [
+      "Sidnej",
+      "Kanbera",
+      "Melburn"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000008",
+    "lang": "sr-Latn",
+    "category": "istorija",
+    "difficulty": 1,
+    "text": "Ko je prvi čovek koji je hodao po Mesecu?",
+    "options": [
+      "Jurij Gagarin",
+      "Baz Oldrin",
+      "Nil Armstrong"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000009",
+    "lang": "sr-Latn",
+    "category": "sport",
+    "difficulty": 1,
+    "text": "Koliko igrača jednog tima je istovremeno na košarkaškom terenu?",
+    "options": [
+      "Pet",
+      "Šest",
+      "Sedam"
+    ],
+    "answer": 0,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000010",
+    "lang": "sr-Latn",
+    "category": "nauka",
+    "difficulty": 1,
+    "text": "Koja planeta je najbliža Suncu?",
+    "options": [
+      "Venera",
+      "Merkur",
+      "Mars"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000011",
+    "lang": "sr-Latn",
+    "category": "geografija",
+    "difficulty": 1,
+    "text": "Koji je najveći okean na svetu?",
+    "options": [
+      "Atlantski",
+      "Indijski",
+      "Tihi"
+    ],
+    "answer": 2,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  },
+  {
+    "id": "q_000012",
+    "lang": "sr-Latn",
+    "category": "muzika",
+    "difficulty": 1,
+    "text": "Koliko žica ima standardna akustična gitara?",
+    "options": [
+      "Pet",
+      "Šest",
+      "Sedam"
+    ],
+    "answer": 1,
+    "source": "",
+    "verifiedBy": "",
+    "verifiedAt": "",
+    "stats": {
+      "shown": 0,
+      "correct": 0
+    }
+  }
+]

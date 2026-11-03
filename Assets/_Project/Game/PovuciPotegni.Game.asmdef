@@ -1,0 +1,17 @@
+{
+    "name": "PovuciPotegni.Game",
+    "rootNamespace": "PovuciPotegni.Game",
+    "references": [
+        "PovuciPotegni.Core",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

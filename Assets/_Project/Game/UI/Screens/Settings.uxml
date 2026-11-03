@@ -1,0 +1,25 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement class="screen page">
+        <ui:VisualElement class="row" style="margin-bottom: 14px;">
+            <ui:Button name="back" class="icon-btn back-btn"><game:IconView icon="back" class="icon-20" /></ui:Button>
+            <ui:Label text="@settings.title" class="page-title t-display" />
+        </ui:VisualElement>
+        <ui:VisualElement class="card section">
+            <ui:Label text="@settings.script" class="section-title" />
+            <ui:VisualElement class="row">
+                <ui:Button name="latin" class="choice gap-right"><ui:Label text="@settings.latin" /></ui:Button>
+                <ui:Button name="cyrillic" class="choice"><ui:Label text="@settings.cyrillic" /></ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement class="card section">
+            <ui:VisualElement class="row toggle-row" style="margin-bottom: 10px;">
+                <ui:Label text="@settings.sound" class="t-strong t-15" />
+                <ui:Button name="sound" class="toggle"><ui:Label /></ui:Button>
+            </ui:VisualElement>
+            <ui:VisualElement class="row toggle-row">
+                <ui:Label text="@settings.haptics" class="t-strong t-15" />
+                <ui:Button name="haptics" class="toggle"><ui:Label /></ui:Button>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

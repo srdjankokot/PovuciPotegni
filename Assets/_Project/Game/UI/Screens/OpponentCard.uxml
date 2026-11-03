@@ -1,0 +1,19 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:game="PovuciPotegni.Game">
+    <ui:VisualElement name="card" class="card bot-card">
+        <ui:VisualElement class="row">
+            <ui:VisualElement name="portrait" class="portrait bot-portrait">
+                <game:IconView name="lock" icon="lock" stroke="#FFFFFF" class="icon-22" />
+            </ui:VisualElement>
+            <ui:VisualElement class="grow">
+                <ui:VisualElement class="row spread">
+                    <ui:Label name="name" class="bot-name t-strong" />
+                    <ui:Label name="count" class="bot-count t-strong" />
+                </ui:VisualElement>
+                <ui:Label name="info" class="bot-info t-semi" />
+                <ui:Label name="wins" class="bot-wins t-strong" />
+                <ui:VisualElement name="track" class="track bot-track"><ui:VisualElement name="fill" class="track-fill" /></ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Button name="play" class="bot-play"><ui:Label name="play-label" class="t-display" /></ui:Button>
+    </ui:VisualElement>
+</ui:UXML>
