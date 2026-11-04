@@ -18,15 +18,22 @@
 # Rezultati testova
 /TestResults/
 
-# Fajlovi koje generiše IDE
+# Asset meta za JetBrains plugin
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# IDE
 .vs/
 .vscode/
 .idea/
+.gradle/
+.consulo/
+ExportedObj/
 *.csproj
 *.unityproj
 *.sln
 *.slnx
 *.suo
+*.tmp
 *.user
 *.userprefs
 *.pidb
@@ -37,25 +44,32 @@
 *.opendb
 *.VC.db
 
-# Meta za debug simbole
+# Debug simboli
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 
-# Build izlazi
+# Crash / sistem
+sysinfo.txt
+mono_crash.*
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+
+# Build output
 *.apk
 *.aab
 *.ipa
-*.unitypackage
 *.app
-crashlytics-build.properties
+*.unitypackage
+
+# Addressables build
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Tajne: ključevi za potpisivanje i lokalna konfiguracija Firebase-a
 *.keystore
 *.jks
 google-services.json
 GoogleService-Info.plist
-
-# Sistem
-.DS_Store
-Thumbs.db

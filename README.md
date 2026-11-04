@@ -40,3 +40,22 @@ Sledeće faze pokreći porukom tipa: `Radimo fazu 2 iz docs/ZADACI.md.`
 - Pravila u `docs/GDD.md` imaju prednost nad prototipom. Prototip ima tajmer od 20 s i džoker Duplo koji se uključuje pre odgovora; GDD kaže 15 s i „sledeći tačan odgovor vuče 2“.
 - Pitanja u `reference/pitanja-primer.json` nisu urednički proverena (`verifiedBy` je prazan). Pravih 500 pitanja ide kroz urednika.
 - Likovi su za MVP od primitiva; Synty/Mixamo modeli se ubacuju kasnije bez menjanja koda igre.
+
+## Git setup
+
+**Preduslovi:** Git, Git LFS i Unity Hub sa verzijom iz `ProjectSettings/ProjectVersion.txt`.
+
+**Posle kloniranja** pokreni jednom:
+
+- macOS/Linux: `tools/setup-git.sh`
+- Windows: `powershell -ExecutionPolicy Bypass -File tools\setup-git.ps1`
+
+Ako UnityYAMLMerge nije na podrazumevanoj putanji, prosledi njegovu putanju kao argument. Ako si klonirao pre nego što si instalirao Git LFS, posle skripte pokreni i `git lfs pull`.
+
+**Pravila rada:**
+
+- Pre pull-a sačuvaj i zatvori scenu u Unity-ju.
+- Commit-uj i pull-uj često, u malim izmenama.
+- Pre veće izmene scene javi kolegi. Za duži rad zaključaj fajl sa `git lfs lock <putanja>`, a kad završiš otključaj ga sa `git lfs unlock <putanja>`.
+- Sadržaj drži u prefabima, a scene neka budu „tanke“.
+- Ako merge scene ipak ne uspe automatski, ne rešavaj YAML ručno naslepo: uzmi jednu verziju (`git checkout --ours <putanja>` ili `git checkout --theirs <putanja>`) i ponovi izmenu u editoru. Takav fajl nema oznake `<<<<`, pa konflikt vidiš samo u `git status` (`UU`) i ne bi trebalo da ga dodaš sa `git add` bez ovog koraka.
