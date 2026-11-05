@@ -1,0 +1,39 @@
+What's New to RealToon V5.0.16 (September 2026)
+=====================================
+
+[New]
+- Refraction (URP and HDRP) [Unity]
+*To use this you need to enable Transparent Mode.
+
+- Eye Parallax Refraction (URP and HDRP) [Unity]
+*Parallax style refraction for eye.
+*Can also be affected by Normal Map.
+
+- Use UV1 (URP and HDRP) [Unity]
+*Force use UV1.
+*New option for SDF (ShadowT) and Anisotropic Mode (Gloss Texture).
+
+- Early added Unity 6.7 support. (URP) [Unity]
+*It includes Surface Cache GI and Screen Space Reflection.
+*Some improvements and changes, just for Unity 6.7.
+
+- Enable Surface Cache GI. (New Option for Lighting) (URP) [Unity 6.7]
+*For this to work you need to add Surface Cache GI in your renderer settings.
+
+- Enable RealTime Emission. (New Option for Lighting) (URP) [Unity 6.7]
+*For this to work you need to add Screen Space Reflection in your renderer settings.
+
+[Improvements]
+- Outline Width Vertex Color Blue, Smooth Object Normal Vertex Color Red, Self Shadow Threshold Vertex Color Green. (URP and HDRP) [Unity]
+*100% follows RGB Vertex Colors.
+
+[Fixed]
+- DOTS Deformation variable casting error. (URP) [Unity]
+- Some checkbox turns to textbox. (Unity 6.0 to Later) [Unity]
+====================================
+
+#Read the "Change - Fix Log.txt." file for previous updates.
+#This update supports Unity 5, 2017, 2018, 2019, 2020, 2022, 2023, Unity 6 and future unity versions.
+
+[Other Notes]
+* If you encounter some problems or need help just contact by email.
