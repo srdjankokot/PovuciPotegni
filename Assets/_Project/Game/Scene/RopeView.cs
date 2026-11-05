@@ -23,12 +23,15 @@ namespace PovuciPotegni.Game
         [SerializeField] private CharacterRig player;
         [SerializeField] private CharacterRig opponent;
         [SerializeField] private Transform knot;
+        [SerializeField] private bool useColorAtlas;
 
         private readonly Vector3[] _controlPoints = new Vector3[2 * TailPoints + 2 + TautSamples - 1];
         private readonly Vector3[] _centers = new Vector3[TubeSegments + 1];
         private readonly Vector3[] _vertices = new Vector3[(TubeSegments + 1) * (RadialSegments + 1)];
         private readonly Vector3[] _normals = new Vector3[(TubeSegments + 1) * (RadialSegments + 1)];
         private readonly Vector2[] _uvs = new Vector2[(TubeSegments + 1) * (RadialSegments + 1)];
+        private readonly Vector2[] _atlasModes = new Vector2[(TubeSegments + 1) * (RadialSegments + 1)];
+        private readonly Vector2[] _atlasStyles = new Vector2[(TubeSegments + 1) * (RadialSegments + 1)];
 
         private Mesh _mesh;
 
@@ -65,6 +68,20 @@ namespace PovuciPotegni.Game
             _mesh.SetVertices(_vertices);
             _mesh.SetNormals(_normals);
             _mesh.SetUVs(0, _uvs);
+            if (useColorAtlas)
+            {
+                // Repeat the rope tile inside the shared atlas in the fragment shader.
+                if (_atlasModes[0].y != 1f)
+                {
+                    for (int i = 0; i < _atlasModes.Length; i++)
+                    {
+                        _atlasModes[i] = Vector2.up;
+                    }
+                }
+                // Missing vertex attributes have backend-dependent defaults; set style explicitly.
+                _mesh.SetUVs(2, _atlasStyles);
+                _mesh.SetUVs(3, _atlasModes);
+            }
             _mesh.RecalculateBounds();
 
             if (knot != null)

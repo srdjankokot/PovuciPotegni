@@ -34,6 +34,11 @@ namespace PovuciPotegni.Game
         /// <summary>Jumps to the current view at once.</summary>
         public void Snap()
         {
+            if (!isActiveAndEnabled)
+            {
+                return;
+            }
+
             transform.position = WantedPosition();
             _lookTarget = WantedTarget();
             _hasLookTarget = true;
@@ -43,6 +48,11 @@ namespace PovuciPotegni.Game
 
         public void Tick(float deltaTime, float shake, float fovKick)
         {
+            if (!isActiveAndEnabled)
+            {
+                return;
+            }
+
             if (!_hasLookTarget)
             {
                 _lookTarget = WantedTarget();

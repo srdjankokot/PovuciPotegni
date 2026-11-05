@@ -1,0 +1,996 @@
+{
+    "width": 256,
+    "height": 256,
+    "cellSize": 16,
+    "colors": [
+        {
+            "hex": "12131C",
+            "column": 0,
+            "row": 0,
+            "u": 0.03125,
+            "v": 0.03125
+        },
+        {
+            "hex": "15171F",
+            "column": 1,
+            "row": 0,
+            "u": 0.09375,
+            "v": 0.03125
+        },
+        {
+            "hex": "171B25",
+            "column": 2,
+            "row": 0,
+            "u": 0.15625,
+            "v": 0.03125
+        },
+        {
+            "hex": "181920",
+            "column": 3,
+            "row": 0,
+            "u": 0.21875,
+            "v": 0.03125
+        },
+        {
+            "hex": "1B1C24",
+            "column": 4,
+            "row": 0,
+            "u": 0.28125,
+            "v": 0.03125
+        },
+        {
+            "hex": "1E2230",
+            "column": 5,
+            "row": 0,
+            "u": 0.34375,
+            "v": 0.03125
+        },
+        {
+            "hex": "1E2D93",
+            "column": 6,
+            "row": 0,
+            "u": 0.40625,
+            "v": 0.03125
+        },
+        {
+            "hex": "22242D",
+            "column": 7,
+            "row": 0,
+            "u": 0.46875,
+            "v": 0.03125
+        },
+        {
+            "hex": "25223B",
+            "column": 8,
+            "row": 0,
+            "u": 0.53125,
+            "v": 0.03125
+        },
+        {
+            "hex": "252E47",
+            "column": 9,
+            "row": 0,
+            "u": 0.59375,
+            "v": 0.03125
+        },
+        {
+            "hex": "2638B8",
+            "column": 10,
+            "row": 0,
+            "u": 0.65625,
+            "v": 0.03125
+        },
+        {
+            "hex": "282E41",
+            "column": 11,
+            "row": 0,
+            "u": 0.71875,
+            "v": 0.03125
+        },
+        {
+            "hex": "2A2B33",
+            "column": 12,
+            "row": 0,
+            "u": 0.78125,
+            "v": 0.03125
+        },
+        {
+            "hex": "2A2D38",
+            "column": 13,
+            "row": 0,
+            "u": 0.84375,
+            "v": 0.03125
+        },
+        {
+            "hex": "2A40BA",
+            "column": 14,
+            "row": 0,
+            "u": 0.90625,
+            "v": 0.03125
+        },
+        {
+            "hex": "2E2A4A",
+            "column": 15,
+            "row": 0,
+            "u": 0.96875,
+            "v": 0.03125
+        },
+        {
+            "hex": "2E3A59",
+            "column": 0,
+            "row": 1,
+            "u": 0.03125,
+            "v": 0.09375
+        },
+        {
+            "hex": "2E3B48",
+            "column": 1,
+            "row": 1,
+            "u": 0.09375,
+            "v": 0.09375
+        },
+        {
+            "hex": "2E956F",
+            "column": 2,
+            "row": 1,
+            "u": 0.15625,
+            "v": 0.09375
+        },
+        {
+            "hex": "2F9972",
+            "column": 3,
+            "row": 1,
+            "u": 0.21875,
+            "v": 0.09375
+        },
+        {
+            "hex": "32A077",
+            "column": 4,
+            "row": 1,
+            "u": 0.28125,
+            "v": 0.09375
+        },
+        {
+            "hex": "33251C",
+            "column": 5,
+            "row": 1,
+            "u": 0.34375,
+            "v": 0.09375
+        },
+        {
+            "hex": "34A87D",
+            "column": 6,
+            "row": 1,
+            "u": 0.40625,
+            "v": 0.09375
+        },
+        {
+            "hex": "3550E8",
+            "column": 7,
+            "row": 1,
+            "u": 0.46875,
+            "v": 0.09375
+        },
+        {
+            "hex": "3A2A20",
+            "column": 8,
+            "row": 1,
+            "u": 0.53125,
+            "v": 0.09375
+        },
+        {
+            "hex": "3A4A5A",
+            "column": 9,
+            "row": 1,
+            "u": 0.59375,
+            "v": 0.09375
+        },
+        {
+            "hex": "3B2A20",
+            "column": 10,
+            "row": 1,
+            "u": 0.65625,
+            "v": 0.09375
+        },
+        {
+            "hex": "3B7D3A",
+            "column": 11,
+            "row": 1,
+            "u": 0.71875,
+            "v": 0.09375
+        },
+        {
+            "hex": "3BBF8E",
+            "column": 12,
+            "row": 1,
+            "u": 0.78125,
+            "v": 0.09375
+        },
+        {
+            "hex": "3FA6E4",
+            "column": 13,
+            "row": 1,
+            "u": 0.84375,
+            "v": 0.09375
+        },
+        {
+            "hex": "483B2E",
+            "column": 14,
+            "row": 1,
+            "u": 0.90625,
+            "v": 0.09375
+        },
+        {
+            "hex": "4A1F22",
+            "column": 15,
+            "row": 1,
+            "u": 0.96875,
+            "v": 0.09375
+        },
+        {
+            "hex": "4B9A5A",
+            "column": 0,
+            "row": 2,
+            "u": 0.03125,
+            "v": 0.15625
+        },
+        {
+            "hex": "4CB2EC",
+            "column": 1,
+            "row": 2,
+            "u": 0.09375,
+            "v": 0.15625
+        },
+        {
+            "hex": "4F369C",
+            "column": 2,
+            "row": 2,
+            "u": 0.15625,
+            "v": 0.15625
+        },
+        {
+            "hex": "4F9B4A",
+            "column": 3,
+            "row": 2,
+            "u": 0.21875,
+            "v": 0.15625
+        },
+        {
+            "hex": "4F9F5C",
+            "column": 4,
+            "row": 2,
+            "u": 0.28125,
+            "v": 0.15625
+        },
+        {
+            "hex": "4FA65A",
+            "column": 5,
+            "row": 2,
+            "u": 0.34375,
+            "v": 0.15625
+        },
+        {
+            "hex": "583CAD",
+            "column": 6,
+            "row": 2,
+            "u": 0.40625,
+            "v": 0.15625
+        },
+        {
+            "hex": "58A865",
+            "column": 7,
+            "row": 2,
+            "u": 0.46875,
+            "v": 0.15625
+        },
+        {
+            "hex": "5A4A3A",
+            "column": 8,
+            "row": 2,
+            "u": 0.53125,
+            "v": 0.15625
+        },
+        {
+            "hex": "5E9C57",
+            "column": 9,
+            "row": 2,
+            "u": 0.59375,
+            "v": 0.15625
+        },
+        {
+            "hex": "5FAF58",
+            "column": 10,
+            "row": 2,
+            "u": 0.65625,
+            "v": 0.15625
+        },
+        {
+            "hex": "5FAF62",
+            "column": 11,
+            "row": 2,
+            "u": 0.71875,
+            "v": 0.15625
+        },
+        {
+            "hex": "62B368",
+            "column": 12,
+            "row": 2,
+            "u": 0.78125,
+            "v": 0.15625
+        },
+        {
+            "hex": "6B4A2E",
+            "column": 13,
+            "row": 2,
+            "u": 0.84375,
+            "v": 0.15625
+        },
+        {
+            "hex": "6BB873",
+            "column": 14,
+            "row": 2,
+            "u": 0.90625,
+            "v": 0.15625
+        },
+        {
+            "hex": "6E4A2E",
+            "column": 15,
+            "row": 2,
+            "u": 0.96875,
+            "v": 0.15625
+        },
+        {
+            "hex": "6E4BD8",
+            "column": 0,
+            "row": 3,
+            "u": 0.03125,
+            "v": 0.21875
+        },
+        {
+            "hex": "6FBF62",
+            "column": 1,
+            "row": 3,
+            "u": 0.09375,
+            "v": 0.21875
+        },
+        {
+            "hex": "74C06E",
+            "column": 2,
+            "row": 3,
+            "u": 0.15625,
+            "v": 0.21875
+        },
+        {
+            "hex": "7DC96E",
+            "column": 3,
+            "row": 3,
+            "u": 0.21875,
+            "v": 0.21875
+        },
+        {
+            "hex": "7F5732",
+            "column": 4,
+            "row": 3,
+            "u": 0.28125,
+            "v": 0.21875
+        },
+        {
+            "hex": "86C873",
+            "column": 5,
+            "row": 3,
+            "u": 0.34375,
+            "v": 0.21875
+        },
+        {
+            "hex": "8A5A36",
+            "column": 6,
+            "row": 3,
+            "u": 0.40625,
+            "v": 0.21875
+        },
+        {
+            "hex": "8B5626",
+            "column": 7,
+            "row": 3,
+            "u": 0.46875,
+            "v": 0.21875
+        },
+        {
+            "hex": "8CC49A",
+            "column": 8,
+            "row": 3,
+            "u": 0.53125,
+            "v": 0.21875
+        },
+        {
+            "hex": "8E949C",
+            "column": 9,
+            "row": 3,
+            "u": 0.59375,
+            "v": 0.21875
+        },
+        {
+            "hex": "8FC75E",
+            "column": 10,
+            "row": 3,
+            "u": 0.65625,
+            "v": 0.21875
+        },
+        {
+            "hex": "8FD07C",
+            "column": 11,
+            "row": 3,
+            "u": 0.71875,
+            "v": 0.21875
+        },
+        {
+            "hex": "8FD6F7",
+            "column": 12,
+            "row": 3,
+            "u": 0.78125,
+            "v": 0.21875
+        },
+        {
+            "hex": "9A5F2A",
+            "column": 13,
+            "row": 3,
+            "u": 0.84375,
+            "v": 0.21875
+        },
+        {
+            "hex": "9A6B3F",
+            "column": 14,
+            "row": 3,
+            "u": 0.90625,
+            "v": 0.21875
+        },
+        {
+            "hex": "9BD987",
+            "column": 15,
+            "row": 3,
+            "u": 0.96875,
+            "v": 0.21875
+        },
+        {
+            "hex": "9FCFA6",
+            "column": 0,
+            "row": 4,
+            "u": 0.03125,
+            "v": 0.28125
+        },
+        {
+            "hex": "A2A7AF",
+            "column": 1,
+            "row": 4,
+            "u": 0.09375,
+            "v": 0.28125
+        },
+        {
+            "hex": "A7ADB8",
+            "column": 2,
+            "row": 4,
+            "u": 0.15625,
+            "v": 0.28125
+        },
+        {
+            "hex": "A8D6AE",
+            "column": 3,
+            "row": 4,
+            "u": 0.21875,
+            "v": 0.28125
+        },
+        {
+            "hex": "A9784A",
+            "column": 4,
+            "row": 4,
+            "u": 0.28125,
+            "v": 0.28125
+        },
+        {
+            "hex": "B3262B",
+            "column": 5,
+            "row": 4,
+            "u": 0.34375,
+            "v": 0.28125
+        },
+        {
+            "hex": "B4BAC2",
+            "column": 6,
+            "row": 4,
+            "u": 0.40625,
+            "v": 0.28125
+        },
+        {
+            "hex": "B8BBC3",
+            "column": 7,
+            "row": 4,
+            "u": 0.46875,
+            "v": 0.28125
+        },
+        {
+            "hex": "B8E3A4",
+            "column": 8,
+            "row": 4,
+            "u": 0.53125,
+            "v": 0.28125
+        },
+        {
+            "hex": "B98CF0",
+            "column": 9,
+            "row": 4,
+            "u": 0.59375,
+            "v": 0.28125
+        },
+        {
+            "hex": "BE9475",
+            "column": 10,
+            "row": 4,
+            "u": 0.65625,
+            "v": 0.28125
+        },
+        {
+            "hex": "BF4D26",
+            "column": 11,
+            "row": 4,
+            "u": 0.71875,
+            "v": 0.28125
+        },
+        {
+            "hex": "C24A22",
+            "column": 12,
+            "row": 4,
+            "u": 0.78125,
+            "v": 0.28125
+        },
+        {
+            "hex": "C6A387",
+            "column": 13,
+            "row": 4,
+            "u": 0.84375,
+            "v": 0.28125
+        },
+        {
+            "hex": "C6C8CD",
+            "column": 14,
+            "row": 4,
+            "u": 0.90625,
+            "v": 0.28125
+        },
+        {
+            "hex": "C7463E",
+            "column": 15,
+            "row": 4,
+            "u": 0.96875,
+            "v": 0.28125
+        },
+        {
+            "hex": "C8CCD4",
+            "column": 0,
+            "row": 5,
+            "u": 0.03125,
+            "v": 0.34375
+        },
+        {
+            "hex": "C9A06A",
+            "column": 1,
+            "row": 5,
+            "u": 0.09375,
+            "v": 0.34375
+        },
+        {
+            "hex": "C9CDD4",
+            "column": 2,
+            "row": 5,
+            "u": 0.15625,
+            "v": 0.34375
+        },
+        {
+            "hex": "C9D98A",
+            "column": 3,
+            "row": 5,
+            "u": 0.21875,
+            "v": 0.34375
+        },
+        {
+            "hex": "CC6E31",
+            "column": 4,
+            "row": 5,
+            "u": 0.28125,
+            "v": 0.34375
+        },
+        {
+            "hex": "D67433",
+            "column": 5,
+            "row": 5,
+            "u": 0.34375,
+            "v": 0.34375
+        },
+        {
+            "hex": "D6D7DA",
+            "column": 6,
+            "row": 5,
+            "u": 0.40625,
+            "v": 0.34375
+        },
+        {
+            "hex": "D7D9DF",
+            "column": 7,
+            "row": 5,
+            "u": 0.46875,
+            "v": 0.34375
+        },
+        {
+            "hex": "D8F0FF",
+            "column": 8,
+            "row": 5,
+            "u": 0.53125,
+            "v": 0.34375
+        },
+        {
+            "hex": "D94A3D",
+            "column": 9,
+            "row": 5,
+            "u": 0.59375,
+            "v": 0.34375
+        },
+        {
+            "hex": "D9572B",
+            "column": 10,
+            "row": 5,
+            "u": 0.65625,
+            "v": 0.34375
+        },
+        {
+            "hex": "E0B040",
+            "column": 11,
+            "row": 5,
+            "u": 0.71875,
+            "v": 0.34375
+        },
+        {
+            "hex": "E5484D",
+            "column": 12,
+            "row": 5,
+            "u": 0.78125,
+            "v": 0.34375
+        },
+        {
+            "hex": "E65147",
+            "column": 13,
+            "row": 5,
+            "u": 0.84375,
+            "v": 0.34375
+        },
+        {
+            "hex": "E8B48F",
+            "column": 14,
+            "row": 5,
+            "u": 0.90625,
+            "v": 0.34375
+        },
+        {
+            "hex": "F0A08C",
+            "column": 15,
+            "row": 5,
+            "u": 0.96875,
+            "v": 0.34375
+        },
+        {
+            "hex": "F29BC1",
+            "column": 0,
+            "row": 6,
+            "u": 0.03125,
+            "v": 0.40625
+        },
+        {
+            "hex": "F2C7A5",
+            "column": 1,
+            "row": 6,
+            "u": 0.09375,
+            "v": 0.40625
+        },
+        {
+            "hex": "F2CF55",
+            "column": 2,
+            "row": 6,
+            "u": 0.15625,
+            "v": 0.40625
+        },
+        {
+            "hex": "F2E36B",
+            "column": 3,
+            "row": 6,
+            "u": 0.21875,
+            "v": 0.40625
+        },
+        {
+            "hex": "F3EEDF",
+            "column": 4,
+            "row": 6,
+            "u": 0.28125,
+            "v": 0.40625
+        },
+        {
+            "hex": "F3F4F8",
+            "column": 5,
+            "row": 6,
+            "u": 0.34375,
+            "v": 0.40625
+        },
+        {
+            "hex": "F7D84A",
+            "column": 6,
+            "row": 6,
+            "u": 0.40625,
+            "v": 0.40625
+        },
+        {
+            "hex": "FF5A4F",
+            "column": 7,
+            "row": 6,
+            "u": 0.46875,
+            "v": 0.40625
+        },
+        {
+            "hex": "FF8A3D",
+            "column": 8,
+            "row": 6,
+            "u": 0.53125,
+            "v": 0.40625
+        },
+        {
+            "hex": "FFDFB9",
+            "column": 9,
+            "row": 6,
+            "u": 0.59375,
+            "v": 0.40625
+        },
+        {
+            "hex": "FFFFFF",
+            "column": 10,
+            "row": 6,
+            "u": 0.65625,
+            "v": 0.40625
+        },
+        {
+            "hex": "D4A62A",
+            "column": 11,
+            "row": 6,
+            "u": 0.71875,
+            "v": 0.40625
+        }
+    ],
+    "variants": [
+        "BankRimFar__A9784A_Flat",
+        "BankRimNear__A9784A_Flat",
+        "BankWallFar__A9784A_Flat",
+        "BankWallNear__A9784A_Flat",
+        "BowTieWing__2638B8_Toon",
+        "Box__12131C_Toon",
+        "Box__15171F_Toon",
+        "Box__1B1C24_Toon",
+        "Box__2638B8_Toon",
+        "Box__2A2B33_Toon",
+        "Box__2E3A59_Toon",
+        "Box__32A077_Toon",
+        "Box__3B7D3A_Toon",
+        "Box__4A1F22_Toon",
+        "Box__4F9B4A_Toon",
+        "Box__6B4A2E_Toon",
+        "Box__7F5732_Flat",
+        "Box__9A6B3F_Flat",
+        "Box__B8E3A4_Flat",
+        "Box__C8CCD4_Toon",
+        "Box__C9D98A_Toon",
+        "Box__D67433_Toon",
+        "Box__D8F0FF_Flat",
+        "Box__E0B040_Toon",
+        "Box__F3F4F8_Toon",
+        "Box__FFFFFF_Flat",
+        "Box__FFFFFF_Toon",
+        "Bush__4F9F5C_Flat",
+        "Bush__5FAF62_Flat",
+        "Bush__6BB873_Flat",
+        "CapBand__C7463E_Toon",
+        "CapBrim__E65147_Toon",
+        "CapDome__FF5A4F_Toon",
+        "Cattail__6E4A2E_Flat",
+        "CloudPuff__FFFFFF_Flat_Glow",
+        "CrocScale__3B7D3A_Toon",
+        "CrocSpike__3B7D3A_Toon",
+        "CrocToothLower__FFFFFF_Toon",
+        "CrocToothUpper__FFFFFF_Toon",
+        "Cylinder_0.052_0.052_0.016_14__E0B040_Toon",
+        "Cylinder_0.090_0.085_0.220_16__1E2230_Toon",
+        "Cylinder_0.090_0.085_0.220_16__3BBF8E_Toon",
+        "Cylinder_0.090_0.085_0.220_16__E8B48F_Toon",
+        "Cylinder_0.090_0.085_0.220_16__F2C7A5_Toon",
+        "Cylinder_0.097_0.097_0.050_16__171B25_Toon",
+        "Cylinder_0.097_0.097_0.050_16__2E956F_Toon",
+        "Cylinder_0.097_0.097_0.060_16__F2CF55_Toon",
+        "Cylinder_0.100_0.110_0.140_12__E8B48F_Toon",
+        "Cylinder_0.100_0.110_0.140_12__F2C7A5_Toon",
+        "Cylinder_0.105_0.095_0.240_16__1E2230_Toon",
+        "Cylinder_0.105_0.095_0.240_16__3550E8_Toon",
+        "Cylinder_0.105_0.095_0.240_16__3BBF8E_Toon",
+        "Cylinder_0.105_0.095_0.240_16__6E4BD8_Toon",
+        "Cylinder_0.105_0.095_0.240_16__FF8A3D_Toon",
+        "Cylinder_0.107_0.107_0.045_16__CC6E31_Toon",
+        "Cylinder_0.107_0.107_0.045_16__F2CF55_Toon",
+        "Cylinder_0.107_0.107_0.045_16__FFFFFF_Toon",
+        "Cylinder_0.120_0.110_0.200_16__2A2D38_Toon",
+        "Cylinder_0.120_0.110_0.200_16__2E2A4A_Toon",
+        "Cylinder_0.120_0.110_0.200_16__2E3A59_Toon",
+        "Cylinder_0.120_0.110_0.200_16__3A4A5A_Toon",
+        "Cylinder_0.120_0.110_0.200_16__5A4A3A_Toon",
+        "Cylinder_0.123_0.123_0.050_16__22242D_Toon",
+        "Cylinder_0.123_0.123_0.050_16__25223B_Toon",
+        "Cylinder_0.123_0.123_0.050_16__252E47_Toon",
+        "Cylinder_0.123_0.123_0.050_16__2E3B48_Toon",
+        "Cylinder_0.123_0.123_0.050_16__483B2E_Toon",
+        "Cylinder_0.125_0.135_0.150_14__1E2230_Toon",
+        "Cylinder_0.145_0.125_0.240_16__2A2D38_Toon",
+        "Cylinder_0.145_0.125_0.240_16__2E2A4A_Toon",
+        "Cylinder_0.145_0.125_0.240_16__2E3A59_Toon",
+        "Cylinder_0.145_0.125_0.240_16__3A4A5A_Toon",
+        "Cylinder_0.145_0.125_0.240_16__5A4A3A_Toon",
+        "Cylinder_0.270_0.320_0.440_20__1E2230_Toon",
+        "Cylinder_0.270_0.320_0.440_20__3550E8_Toon",
+        "Cylinder_0.270_0.320_0.440_20__3BBF8E_Toon",
+        "Cylinder_0.270_0.320_0.440_20__6E4BD8_Toon",
+        "Cylinder_0.270_0.320_0.440_20__FF8A3D_Toon",
+        "Cylinder_0.305_0.313_0.060_20__F2CF55_Toon",
+        "Cylinder_0.305_0.313_0.060_20__FFFFFF_Toon",
+        "Cylinder_0.325_0.330_0.070_20__15171F_Toon",
+        "Cylinder_0.325_0.330_0.070_20__6B4A2E_Toon",
+        "Cylinder_0.338_0.340_0.045_24__2A40BA_Toon",
+        "Cylinder_0.338_0.340_0.045_24__2F9972_Toon",
+        "Cylinder_0.338_0.340_0.045_24__583CAD_Toon",
+        "DeepWater__3FA6E4_Flat",
+        "FarLand__8FD07C_Flat",
+        "FlowerHead__B98CF0_Flat",
+        "FlowerHead__F29BC1_Flat",
+        "FlowerHead__F7D84A_Flat",
+        "FlowerHead__FFFFFF_Flat",
+        "FlowerStem__4B9A5A_Flat",
+        "GlassesRing__2A2B33_Toon",
+        "GrassTuft__5FAF58_Flat",
+        "GrassTuft__6FBF62_Flat",
+        "GrassTuft__7DC96E_Flat",
+        "GroundDisc__86C873_Flat",
+        "GroundDisc__9BD987_Flat",
+        "HairCap__3B2A20_Toon",
+        "HairCap__9A5F2A_Toon",
+        "HairCap__B4BAC2_Toon",
+        "HairCap__D9572B_Toon",
+        "HairRing__D7D9DF_Toon",
+        "HairSpike__BF4D26_Toon",
+        "HairSpike__D9572B_Toon",
+        "Hill__8CC49A_Flat",
+        "Hill__9FCFA6_Flat",
+        "Hill__A8D6AE_Flat",
+        "Hood__34A87D_Toon",
+        "KnotBall__B3262B_Flat",
+        "KnotRibbon__E5484D_Flat",
+        "LilyBloom__F29BC1_Flat",
+        "LilyPad__4FA65A_Flat",
+        "MedalChain__E0B040_Toon",
+        "MushroomCap__D94A3D_Flat",
+        "MushroomStem__F3EEDF_Flat",
+        "NearLand__8FD07C_Flat",
+        "NearLand__8FD07C_Flat_Sandbox",
+        "Reeds__5E9C57_Flat",
+        "Ring_0.128_0.025__282E41_Toon",
+        "Ring_0.130_0.035__4F369C_Toon",
+        "Ring_0.130_0.035__FFFFFF_Toon",
+        "Rock__A7ADB8_Flat",
+        "Rock__C9CDD4_Flat",
+        "SceneMeshes__2A2D38_Toon",
+        "SceneMeshes__2E2A4A_Toon",
+        "SceneMeshes__2E3A59_Toon",
+        "SceneMeshes__3A4A5A_Toon",
+        "SceneMeshes__5A4A3A_Toon",
+        "ShallowFar__8FD6F7_Flat",
+        "ShallowNear__8FD6F7_Flat",
+        "Smile__4A1F22_Toon",
+        "Sphere_0.012_8_6__FFFFFF_Toon",
+        "Sphere_0.016_6_5__F3F4F8_Toon",
+        "Sphere_0.018_8_6__F3F4F8_Toon",
+        "Sphere_0.028_8_6__1E2D93_Toon",
+        "Sphere_0.030_10_8__C7463E_Toon",
+        "Sphere_0.032_8_6__BE9475_Toon",
+        "Sphere_0.032_8_6__C6A387_Toon",
+        "Sphere_0.042_10_8__F0A08C_Toon",
+        "Sphere_0.042_12_10__1B1C24_Toon",
+        "Sphere_0.045_10_8__FFFFFF_Toon",
+        "Sphere_0.045_12_10__4A1F22_Toon",
+        "Sphere_0.048_10_8__E8B48F_Toon",
+        "Sphere_0.048_10_8__F2C7A5_Toon",
+        "Sphere_0.050_10_8__F2CF55_Toon",
+        "Sphere_0.050_10_8__FFDFB9_Toon",
+        "Sphere_0.050_12_8__B4BAC2_Toon",
+        "Sphere_0.050_12_8__D7D9DF_Toon",
+        "Sphere_0.050_12_8__E8B48F_Toon",
+        "Sphere_0.050_12_8__F2C7A5_Toon",
+        "Sphere_0.055_10_8__C6C8CD_Toon",
+        "Sphere_0.056_10_6__3B2A20_Toon",
+        "Sphere_0.056_10_6__8E949C_Toon",
+        "Sphere_0.056_10_6__9A5F2A_Toon",
+        "Sphere_0.056_10_6__B8BBC3_Toon",
+        "Sphere_0.056_10_6__C24A22_Toon",
+        "Sphere_0.060_10_8__3B2A20_Toon",
+        "Sphere_0.060_10_8__F2E36B_Toon",
+        "Sphere_0.060_8_6__4F9B4A_Toon",
+        "Sphere_0.065_12_8__E8B48F_Toon",
+        "Sphere_0.065_12_8__F2C7A5_Toon",
+        "Sphere_0.070_10_8__3B2A20_Toon",
+        "Sphere_0.070_10_8__9A5F2A_Toon",
+        "Sphere_0.070_10_8__B4BAC2_Toon",
+        "Sphere_0.070_10_8__D7D9DF_Toon",
+        "Sphere_0.070_10_8__D9572B_Toon",
+        "Sphere_0.090_10_8__4F9B4A_Toon",
+        "Sphere_0.100_10_8__3B2A20_Toon",
+        "Sphere_0.100_10_8__9A5F2A_Toon",
+        "Sphere_0.100_10_8__B4BAC2_Toon",
+        "Sphere_0.100_10_8__D9572B_Toon",
+        "Sphere_0.100_12_8__8B5626_Toon",
+        "Sphere_0.100_12_8__A2A7AF_Toon",
+        "Sphere_0.110_12_8__4F9B4A_Toon",
+        "Sphere_0.115_12_8__181920_Toon",
+        "Sphere_0.115_12_8__33251C_Toon",
+        "Sphere_0.115_12_8__D6D7DA_Toon",
+        "Sphere_0.115_16_12__1E2230_Toon",
+        "Sphere_0.115_16_12__3550E8_Toon",
+        "Sphere_0.115_16_12__3BBF8E_Toon",
+        "Sphere_0.115_16_12__6E4BD8_Toon",
+        "Sphere_0.115_16_12__E8B48F_Toon",
+        "Sphere_0.115_16_12__F2C7A5_Toon",
+        "Sphere_0.115_16_12__FF8A3D_Toon",
+        "Sphere_0.130_12_8__3B2A20_Toon",
+        "Sphere_0.130_12_8__9A5F2A_Toon",
+        "Sphere_0.130_12_8__B4BAC2_Toon",
+        "Sphere_0.130_12_8__D9572B_Toon",
+        "Sphere_0.138_20_16__2A2D38_Toon",
+        "Sphere_0.138_20_16__2E2A4A_Toon",
+        "Sphere_0.138_20_16__2E3A59_Toon",
+        "Sphere_0.138_20_16__3A4A5A_Toon",
+        "Sphere_0.138_20_16__5A4A3A_Toon",
+        "Sphere_0.160_12_8__4F9B4A_Toon",
+        "Sphere_0.170_16_12__1B1C24_Toon",
+        "Sphere_0.170_16_12__3A2A20_Toon",
+        "Sphere_0.170_16_12__F3F4F8_Toon",
+        "Sphere_0.200_14_10__9A5F2A_Toon",
+        "Sphere_0.200_14_10__B4BAC2_Toon",
+        "Sphere_0.210_12_8__4F9B4A_Toon",
+        "Sphere_0.260_12_8__4F9B4A_Toon",
+        "Sphere_0.260_14_10__4F9B4A_Toon",
+        "Sphere_0.270_18_12__1E2230_Toon",
+        "Sphere_0.270_18_12__3550E8_Toon",
+        "Sphere_0.270_18_12__3BBF8E_Toon",
+        "Sphere_0.270_18_12__6E4BD8_Toon",
+        "Sphere_0.270_18_12__FF8A3D_Toon",
+        "Sphere_0.300_24_18__E8B48F_Toon",
+        "Sphere_0.300_24_18__F2C7A5_Toon",
+        "Sphere_0.320_24_16__1E2230_Toon",
+        "Sphere_0.320_24_16__3550E8_Toon",
+        "Sphere_0.320_24_16__3BBF8E_Toon",
+        "Sphere_0.320_24_16__6E4BD8_Toon",
+        "Sphere_0.320_24_16__FF8A3D_Toon",
+        "Sphere_0.480_14_10__C9D98A_Toon",
+        "Sphere_0.500_16_12__4F9B4A_Toon",
+        "Stump__7F5732_Flat",
+        "StumpTop__C9A06A_Flat",
+        "TreeCrown__62B368_Flat",
+        "TreeCrown__74C06E_Flat",
+        "TreeCrown__8FC75E_Flat",
+        "TreeLeavesHigh__4B9A5A_Flat",
+        "TreeLeavesHigh__58A865_Flat",
+        "TreeLeavesHigh__6BB873_Flat",
+        "TreeLeavesLow__4B9A5A_Flat",
+        "TreeLeavesLow__58A865_Flat",
+        "TreeLeavesLow__6BB873_Flat",
+        "TreeTrunk__7F5732_Flat",
+        "TreeTrunk__8A5A36_Flat",
+        "Water__4CB2EC_Flat"
+    ]
+}
